@@ -1,6 +1,6 @@
 #!/bin/bash
-KEY=eyJrIjoiV2lFeGduQ3dsM1V1MzlpVDQxNWtkVkR1MU9Fa014WGkiLCJuIjoiaW1wb3J0IiwiaWQiOjF9
-HOST="http://localhost:3000"
+KEY=*****
+HOST="*******"
 FILE_DIR=/c/Users/Smith.pereira/Desktop/dashboards
 
 for jsonfile in $FILE_DIR/*.json ;
