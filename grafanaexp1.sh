@@ -1,6 +1,6 @@
 #!/bin/bash
-KEY=eyJrIjoiV2lFeGduQ3dsM1V1MzlpVDQxNWtkVkR1MU9Fa014WGkiLCJuIjoiaW1wb3J0IiwiaWQiOjF9
-HOST="http://localhost:3000"
+KEY=*****
+HOST="*******"
 if [ ! -d dashboards ] ; then
     mkdir -p dashboards;
 fi
